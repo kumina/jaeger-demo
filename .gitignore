@@ -1,0 +1,8 @@
+time-app/bin/
+time-app/include/
+time-app/lib/
+time-app/share/
+istio*
+tmp/
+image.tar
+pres.odp
